@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ivindysangco
-- 👀 I’m interested in machine learning engineering.
+- 👀 I’m interested in machine learning engineer.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on python projects.
 - 📫 Message me to reach out.
